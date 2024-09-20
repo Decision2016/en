@@ -29,13 +29,6 @@
     
   </url>
   
-  <url>
-    <loc>https://en.decision01.com/post/c19159ae.html</loc>
-    
-    <lastmod>2024-09-20</lastmod>
-    
-  </url>
-  
 
   <url>
     <loc>https://en.decision01.com/</loc>
@@ -45,27 +38,6 @@
   </url>
 
   
-  <url>
-    <loc>https://en.decision01.com/tags/blockchain/</loc>
-    <lastmod>2024-09-20</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://en.decision01.com/tags/bitcoin/</loc>
-    <lastmod>2024-09-20</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
-  
-  <url>
-    <loc>https://en.decision01.com/categories/Dev/</loc>
-    <lastmod>2024-09-20</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
   
 </urlset>
