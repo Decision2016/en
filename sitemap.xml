@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://en.decision01.com/post/26091937.html</loc>
+    
+    <lastmod>2024-09-21</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://en.decision01.com/about/index.html</loc>
+    
+    <lastmod>2024-09-21</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://en.decision01.com/post/c19159ae.html</loc>
     
     <lastmod>2024-09-20</lastmod>
@@ -29,13 +43,6 @@
     
   </url>
   
-  <url>
-    <loc>https://en.decision01.com/about/index.html</loc>
-    
-    <lastmod>2024-09-20</lastmod>
-    
-  </url>
-  
 
   <url>
     <loc>https://en.decision01.com/</loc>
@@ -54,6 +61,20 @@
   
   <url>
     <loc>https://en.decision01.com/tags/bitcoin/</loc>
+    <lastmod>2024-09-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://en.decision01.com/tags/golang/</loc>
+    <lastmod>2024-09-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://en.decision01.com/tags/generic/</loc>
     <lastmod>2024-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
