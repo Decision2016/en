@@ -2,20 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://en.decision01.com/post/b45dd1b1.html</loc>
-    
-    <lastmod>2024-09-20</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://en.decision01.com/post/4f925910.html</loc>
-    
-    <lastmod>2024-09-20</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://en.decision01.com/post/c19159ae.html</loc>
     
     <lastmod>2024-09-20</lastmod>
@@ -73,21 +59,7 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://en.decision01.com/tags/cryptography/</loc>
-    <lastmod>2024-09-21</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
-  
-  <url>
-    <loc>https://en.decision01.com/categories/Wiki/</loc>
-    <lastmod>2024-09-21</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
   
   <url>
     <loc>https://en.decision01.com/categories/Dev/</loc>
